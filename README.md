@@ -8,7 +8,7 @@ UNDER LICENSE Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internat
 
 Original Design by Dandare, mad3001 and OverClk
 
-PCB Design of the ZX Dandanator MTD by MerlinKV
+ZX Dandanator MTD PCB design by MerlinKV
 
 This is a project to integrate in only one PCB (well, in three) the ZX Dandanator Cartridge for ZX Spectrum and the Multiply Addon.
 
