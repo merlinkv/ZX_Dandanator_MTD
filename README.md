@@ -30,7 +30,7 @@ https://github.com/mad3001/Multiply
 * "Pause" switch for games.
 * Power LED.
 
-In short, the ZX Dandanator MTD is a Dandanator 2.1b with Double ROMSet, Multiply integrated and some little things added.
+In short, the ZX Dandanator MTD is a Dandanator 2.1b with Double ROMSet, Multiply integrated and some updates.
 
 A few thoughts about my "Pause" switch:
 
