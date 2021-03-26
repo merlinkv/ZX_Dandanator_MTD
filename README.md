@@ -20,6 +20,8 @@ http://www.dandare.es
 
 https://github.com/mad3001/Multiply
 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 # Functionalities of my board
 
 * Multiply upgradeable from ROMSet's creator. Just put the switch in programming mode, connect the device to a USB port on the PC. Launch ROMSet's creator and update.
