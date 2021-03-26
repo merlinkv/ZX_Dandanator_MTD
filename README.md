@@ -25,7 +25,7 @@ https://github.com/mad3001/Multiply
 * Multiply upgradeable from ROMSet's creator. Just put the switch in programming mode, connect the device to a USB port on the PC. Launch ROMSet's creator and update.
 * If you put the Multiply switch in programming mode, the Multyply is deactivated. It could also be considered as a Multiply ON-OFF. That is, in OFF the Multiply does not work, but the ROMSet's of the Dandanator do.
 * Joystick ON-OFF
-* Dual ROMSet. You can select one ROMSet or another, simply by changing a position switch. We change the switch and if it does not take the change, just press the right button of the ZX Dandanator MTD (or do a reset) and the other ROMSet is already selected.
+* Dual ROMSet. You can select one ROMSet or another, simply by changing a position switch. If you change the ROMSet switch position and it does not take the change, just press the right button of the ZX Dandanator MTD (or do a reset) and the other ROMSet is already selected.
 * The two ROMSet's can be updated, either from the integrated Multiply, or from a DivIDE, DIVMMC, etc.
 * "Pause" switch for games.
 * Power LED.
