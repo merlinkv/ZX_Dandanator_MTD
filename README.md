@@ -10,7 +10,7 @@ Original Design by Dandare, mad3001 and OverClk
 
 ZX Dandanator MTD PCB design by MerlinKV
 
-This project is a mix of the ZX Dandanator MIni! & the Mutiplu add-on.
+This project is a mix of the ZX Dandanator Mini! & the Multiply add-on.
 
 # Links
 
