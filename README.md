@@ -8,7 +8,7 @@
 
 Original Design by Dandare, mad3001 and OverClk
 
-ZX Dandanator MTD PCB design by MerlinKV
+ZX Dandanator MTD (TH) PCB's design by MerlinKV
 
 This project is a mix of the ZX Dandanator Mini! & the Multiply add-on.
 
