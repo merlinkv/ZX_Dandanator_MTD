@@ -30,7 +30,11 @@ http://www.dandare.es
 
 https://github.com/mad3001/Multiply
 
-# Functionalities of my board
+# Boards
+
+* I have made two different boards, one with a PIC in True Hole format, and second with the PIC in SMD format (these ones are cheap).
+
+# Functionalities of my boards
 
 * Multiply upgradeable from ROMSet's creator. Just put the switch in programming mode, connect the device to a USB port on the PC. Launch ROMSet's creator and update.
 * If you put the Multiply switch in programming mode, the Multyply is deactivated. It could also be considered as a Multiply ON-OFF. That is, in OFF the Multiply does not work, but the ROMSet's of the Dandanator do.
