@@ -56,3 +56,7 @@ https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1168
 http://www.dandare.es
 
 https://github.com/mad3001/Multiply
+
+# Images
+
+![Arduino Socketed](https://github.com/merlinkv/ZX_Dandanator_MTD_TH/blob/master/Images/DMTD_Arduino_Socketed_01.jpg)
