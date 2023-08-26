@@ -59,6 +59,6 @@ https://github.com/mad3001/Multiply
 
 # Images
 
-[Arduino Socketed 01](https://github.com/merlinkv/ZX_Dandanator_MTD_TH/blob/master/Images/DMTD_Arduino_Socketed_01.jpg)
+[Arduino Socketed 01](https://github.com/merlinkv/ZX_Dandanator_MTD_TH/blob/master/images/DMTD_Arduino_Socketed_01.jpg)
 
 [Arduino Socketed 01](Images/DMTD_Arduino_Socketed_01.jpg)
