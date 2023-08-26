@@ -22,13 +22,9 @@ THE SALE OF ANY PART OF THIS PROJECT ON EBAY OR OTHER AUCTION SITES IS PROHIBITE
 
 I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
-# Links
+# Updates
 
-https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1168
-
-http://www.dandare.es
-
-https://github.com/mad3001/Multiply
+* 26-08-2023 - Added 3D Printer files (STL) for those who wants to put the arduino in a socket.
 
 # Boards
 
@@ -51,4 +47,12 @@ A few thoughts about my "Pause" switch:
 * The Dandanator already includes a programmed pause. If during a game, the left button is pressed briefly, the game is stopped and will be resumed by pressing any key.
 * When loading TAP or Z80 games from the Multiply, the "scheduled pause" leaves some screen corruption in the lower right corner. That screen corruption does not occur if we use the slide switch.
 * The pause switch is designed for + 2A, + 2B and +3, although it will probably also work on 128K; but in the 48K it will not work as it should.
-* The two pause methods do not interfere. 
+* The two pause methods do not interfere.
+
+# Links
+
+https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1168
+
+http://www.dandare.es
+
+https://github.com/mad3001/Multiply
