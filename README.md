@@ -24,6 +24,7 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 
 # Updates
 
+* 31-12-2023 - Added a new preliminary scheme for replacing GAL with 74HCT IC series
 * 26-08-2023 - Added 3D Printer files (STL) for those who wants to put the arduino in a socket.
 
 # Boards
