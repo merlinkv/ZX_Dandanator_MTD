@@ -25,14 +25,14 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 # Updates
 
 * 04-01-2024 - Added two new versions of the interface.
-   - Version 1.5 is full lenght and have a rear ZX Spectrum Edge connector
-   - Version 1.5s is smaller qith only mSD socket and without rear ZX Spectrum Edge connector
+   - Version 1.5 is full lenght and have a rear ZX Spectrum Edge connector.
+   - Version 1.5s is smaller qith only mSD socket and without rear ZX Spectrum Edge connector.
    - Most of the componentes are now SMD/SMT.
    - GAL replaced by 74HCT IC's series.
-   - Added conntector to allow programming of the PIC
-   - Now you can programm the Arduino Nano directly (you don't need to disable the joystick)
-   - Now you have only three switches: ROM SELECT, JOYSTIC ON-OFF & PAUSE
-* 31-12-2023 - Added a new preliminary scheme for replacing GAL with 74HCT IC series
+   - Added connector to allow the programming of the PIC (if needed).
+   - Now you can programm the Arduino Nano directly (you don't need to disable the joystick).
+   - Now you have only three switches: ROM SELECT, JOYSTIC ON-OFF & PAUSE.
+* 31-12-2023 - Added a new preliminary scheme for replacing GAL with 74HCT IC series.
 * 26-08-2023 - Added 3D Printer files (STL) for those who wants to put the arduino in a socket.
 
 # Boards
