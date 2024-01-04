@@ -28,7 +28,7 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 
 * 04-01-2024 - Added two new versions of the interface.
    - Version 1.5 is full lenght and have a rear ZX Spectrum Edge connector.
-   - Version 1.5s is smaller qith only mSD socket and without rear ZX Spectrum Edge connector.
+   - Version 1.5s is smaller with only mSD socket and without rear ZX Spectrum Edge connector.
    - Most of the componentes are now SMD/SMT.
    - GAL replaced by 74HCT IC's series.
    - Added connector to allow the programming of the PIC (if needed).
