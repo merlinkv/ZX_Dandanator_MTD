@@ -10,6 +10,8 @@ Original Design by Dandare, mad3001 and OverClk
 
 ZX Dandanator MTD & MTD_TH PCB's are designs by MerlinKV
 
+Special thanks to cacharreo, mad3001 & jjsaenz1969 from the [url=https://www.va-de-retro.com/foros/index.php]Va de Retro[/url] Forum.
+
 This project is a mix of the ZX Dandanator Mini! & the Multiply add-on.
 
 # ATTENTION
