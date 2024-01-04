@@ -52,6 +52,8 @@ A few thoughts about my "Pause" switch:
 
 # Links
 
+https://www.va-de-retro.com/foros/viewtopic.php?p=189412#p189412
+
 https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1168
 
 http://www.dandare.es
