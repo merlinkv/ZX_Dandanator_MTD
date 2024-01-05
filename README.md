@@ -34,7 +34,7 @@ I take no responsibiltiy for any damage to any equipment that results from the u
    - Added connector to allow the programming of the PIC (if needed).
    - Now you can programm the Arduino Nano directly (you don't need to disable the joystick).
    - Now you have only three switches: ROM SELECT, JOYSTIC ON-OFF & PAUSE.
-   - Some users find the power LED light too bright. This has an easy solution by replacing R4 (680 Ohms) with one of a higher value, ie: 1K, 1K2, 1K8.
+   - Some users find the power LED light too bright. This has an easy solution by replacing R4 (680 Ohms) with one of a higher value, ie: 1K, 1K2, 1K8 ...
 * 31-12-2023 - Added a new preliminary scheme for replacing GAL with 74HCT IC series.
 * 26-08-2023 - Added 3D Printer files (STL) for those who wants to put the arduino in a socket.
 
