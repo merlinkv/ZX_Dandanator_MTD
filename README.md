@@ -22,7 +22,8 @@ THE SALE OF THIS PROJECT ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
 
 # Note
 
-I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
+I take no responsibiltiy for any damage to any equipment that results from the use of this board.
+USE AT YOUR OWN RISK!
 
 # Updates
 
