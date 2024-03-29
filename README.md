@@ -26,7 +26,7 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 
 # Updates
 
-* 28-03-2024
+* 29-03-2024
    - Fixed a mistake on U10 and SD/mSD 3.3v power supply
    - If you have the first boards of version 1.5 or 1.5s you must solder a wire between pin 1 and pin 8 of U10.
    - Now, everything is working fine. 
