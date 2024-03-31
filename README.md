@@ -29,7 +29,7 @@ USE AT YOUR OWN RISK!
 
 * 31-03-2024
    - mSD socket moved to the back side of the PCB.
-   - Now you can solder two sockets SD and mSD, but they cannot be used simultaneously. Use only an SD or mSD when using the interface.
+   - Now you can solder two sockets (SD and mSD) but, remember, they cannot be used simultaneously. Use only an SD or mSD when using the interface.
 * 29-03-2024
    - Fixed a mistake on U10 and SD/mSD 3.3v power supply
    - If you have the first boards of version 1.5 or 1.5s you must solder a wire between pin 1 and pin 8 of U10.
