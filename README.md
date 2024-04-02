@@ -28,7 +28,7 @@ USE AT YOUR OWN RISK!
 # Updates
 
 * 02-04-2024
-   - v1.5s: Fixed two or gates, now connected to GND. Also the board has been rerouted to improve it.
+   - v1.5 & v1.5s: Fixed some bugs. The two boards has been rerouted.
 * 31-03-2024
    - mSD socket moved to the back side of the PCB.
    - Now you can solder two sockets (SD and mSD) but, remember, they cannot be used simultaneously. Use only an SD or mSD when using the interface.
