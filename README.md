@@ -29,6 +29,7 @@ USE AT YOUR OWN RISK!
 
 * 02-04-2024
    - v1.5 & v1.5s: Fixed some bugs. The two boards has been rerouted.
+   - Added a new version 1.6 (to be tested) version with SD Card detection. If you have a mSD inserted and by mistake you insert an SD, the mSD will be disabled.
 * 31-03-2024
    - mSD socket moved to the back side of the PCB.
    - Now you can solder two sockets (SD and mSD) but, remember, they cannot be used simultaneously. Use only an SD or mSD when using the interface.
