@@ -27,7 +27,7 @@ USE AT YOUR OWN RISK!
 
 # Updates
 * 06-06-2024
-   - Schematics, PCB and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
+   - Schematics, PCB's and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
 * 02-04-2024
    - v1.5 & v1.5s: Fixed some bugs. The two boards has been rerouted.
    - Added a new version 1.6 (to be tested) with SD Card detection. If you have one mSD inserted and by mistake you insert an SD, the mSD will be disabled.
