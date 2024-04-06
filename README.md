@@ -26,7 +26,7 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 USE AT YOUR OWN RISK!
 
 # Updates
-* 06-06-2024
+* 06-04-2024
    - Schematics, PCB's and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
 * 02-04-2024
    - v1.5 & v1.5s: Fixed some bugs. The two boards has been rerouted.
