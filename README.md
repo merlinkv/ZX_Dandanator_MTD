@@ -27,6 +27,8 @@ USE AT YOUR OWN RISK!
 
 # Updates
 * 09-05-2024
+   - Version 1.6 updated.
+* 09-05-2024
    - Reworking the 1.5s & 1.6 versions, they will be available soon.
 * 06-04-2024
    - Schematics, PCB's and Gerbers of versions 1.5s & 1.6 successfully ported to KiCad 8.0.1
