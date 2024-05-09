@@ -27,7 +27,7 @@ USE AT YOUR OWN RISK!
 
 # Updates
 * 09-05-2024
-   - Version 1.6 updated.
+   - Versions 1.5s and 1.6 updated.
 * 09-05-2024
    - Reworking the 1.5s & 1.6 versions, they will be available soon.
 * 06-04-2024
