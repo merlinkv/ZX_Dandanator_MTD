@@ -89,10 +89,6 @@ https://github.com/mad3001/Multiply
 
 # Images
 
-![Version 1.5 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_5_Front.jpg)
-
-![Version 1.5 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_5_Back.jpg)
-
 ![Version 1.5 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_5s_Front.jpg)
 
 ![Version 1.5 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_5s_Back.jpg)
