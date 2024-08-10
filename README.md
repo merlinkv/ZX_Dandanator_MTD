@@ -29,7 +29,8 @@ USE AT YOUR OWN RISK!
 
 * 10-08-2024
    - Version 1.6 updated to 1.7
-   - Some bugs fixed.
+   - Version 1.5s updated to 1.7s
+   - Some bugs fixed on both versions.
 * 09-05-2024
    - Versions 1.5s and 1.6 updated. Version 1.5 deleted.
 * 09-05-2024
