@@ -26,6 +26,10 @@ I take no responsibiltiy for any damage to any equipment that results from the u
 USE AT YOUR OWN RISK!
 
 # Updates
+
+* 10-08-2024
+   - Version 1.6 updated to 1.7
+   - Some bugs fixed.
 * 09-05-2024
    - Versions 1.5s and 1.6 updated. Version 1.5 deleted.
 * 09-05-2024
