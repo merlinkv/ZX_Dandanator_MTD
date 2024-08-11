@@ -28,8 +28,8 @@ USE AT YOUR OWN RISK!
 # Updates
 
 * 10-08-2024
-   - Version 1.6 updated to 1.7
-   - Version 1.5s updated to 1.7s
+   - Version 1.6 updated to 1.7 - All working fine
+   - Version 1.5s updated to 1.7s - All working fine
    - Users of versions 1.6 and 1.5s:
      * A bug in the design prevents detection of the Multiply
      * The solution is very simple: Just do not solder R3 and D2. Then connect the D9 pin of the Arduino Nano to +5v. This can be done on the Arduino nano itself by simply connecting a small wire between both points.
