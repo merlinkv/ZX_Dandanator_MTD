@@ -16,9 +16,13 @@ This project is a mix of the ZX Dandanator Mini! & the Multiply add-on.
 
 # ATTENTION
 
-This project was made for the retro community and not for commercial purposes. So only retro hardware forums and individual people can build this project.
+   - This project was made for retro community, individuals or forums, and **NOT FOR COMMERCIAL PURPOSES**.
+   - Its commercial sale on eBay, auction sites or shops (online or not) is PROHIBITED.
+   - So only retro hardware forums and individual people with non profit intentions can build this project.
 
-THE SALE OF THIS PROJECT ON EBAY OR OTHER AUCTION SITES IS PROHIBITED
+# Exception
+
+  - If you wish to sell small quantities of this interface in a physical or online store, you must first contact me to request permission. The ban on selling it on eBay or auction sites remains in effect.
 
 # Note
 
