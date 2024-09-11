@@ -32,7 +32,7 @@ USE AT YOUR OWN RISK!
 # Updates
 
 * 11-09-2024
-  - Two versions of the 1.7 board.
+  - Two versions of the 1.7 board (different mSD sockets).
     * 1.7 -> SD Push-Push / mSD Push-Pull
     * 1.7b -> SD Push-Push / mSD Push-Push
 * 10-08-2024
