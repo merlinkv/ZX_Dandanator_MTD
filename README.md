@@ -31,6 +31,10 @@ USE AT YOUR OWN RISK!
 
 # Updates
 
+* 11-09-2024
+  - Two versions of the 1.7 board.
+    * 1.7 -> SD Push-Push / mSD Push-Pull
+    * 1.7b -> SD Push-Push / mSD Push-Push
 * 10-08-2024
    - Version 1.6 updated to 1.7 - All working fine
    - Version 1.5s updated to 1.7s - All working fine
