@@ -35,6 +35,7 @@ USE AT YOUR OWN RISK!
   - Two versions of the 1.7 board (different mSD footprints).
     * 1.7 -> SD Push-Push / mSD Push-Pull
     * 1.7b -> SD Push-Push / mSD Push-Push
+  - Added STL 3D Printer files (designed for Arduino on Socket)
 * 10-08-2024
    - Version 1.6 updated to 1.7 - All working fine
    - Version 1.5s updated to 1.7s - All working fine
