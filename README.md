@@ -38,7 +38,7 @@ USE AT YOUR OWN RISK!
   - In order to use the second fire button, you must program the Arduino Nano with the firmware published in the 'Firmware' folder.
   - The stock firmware works and can be programmed from the ROM Generator, but in this case only one fire button will work.
   - Latest version of ROM Generator is included in 'Firmware' folder
-  - PCB's:
+  - PCB's notes:
     * 1.8s (small) is a two layers PCB
     * 1.8Ds (small) is a four layers PCB with EDGE connector on the back
     * Slide Switches: 5 pin, 3mm, SPDT
