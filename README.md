@@ -31,6 +31,16 @@ USE AT YOUR OWN RISK!
 
 # Updates
 
+* 20-09-2024
+  - mSD slot chagen to Push-Push
+  - Added two leds LROM1 & LROM2 to identify the active ROM
+  - Now it's possible to use a Joystick with two fire buttons (e.g. shooting and throwing grenades) in games that support it or are patched to do so.
+  - In order to use the second fire button, you must program the Arduino Nano with the firmware published in the 'Firmware' folder.
+  - The stock firmware works and can be programmed from the ROM Generator, but in this case only one fire button will work.
+  - Latest version of ROM Generator is included in 'Firmware' folder
+  - PCB's:
+    * 1.8s (small) is a two layers PCB
+    * 1.8Ds (small) is a four layers PCB with EDGE connector on the back
 * 11-09-2024
   - Two versions of the 1.7 board (different mSD footprints).
     * 1.7 -> SD Push-Push / mSD Push-Pull
