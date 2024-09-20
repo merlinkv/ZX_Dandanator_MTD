@@ -41,6 +41,8 @@ USE AT YOUR OWN RISK!
   - PCB's:
     * 1.8s (small) is a two layers PCB
     * 1.8Ds (small) is a four layers PCB with EDGE connector on the back
+    * Slide Switches: 5 pin, 3mm, SPDT
+    * mSD slot: Hirose DM3AT-SF-PEJM5
 * 11-09-2024
   - Two versions of the 1.7 board (different mSD footprints).
     * 1.7 -> SD Push-Push / mSD Push-Pull
