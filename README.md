@@ -32,6 +32,7 @@ USE AT YOUR OWN RISK!
 # Updates
 
 * 20-09-2024
+  - Published versions 1.8s & 1.8Ds
   - mSD slot has been changed to Push-Push
   - Added two leds (LROM1 & LROM2) to identify the active ROM
   - Now it's possible to use a Joystick with two fire buttons (e.g. shooting and throwing grenades) in games that support it or are patched to do so.
