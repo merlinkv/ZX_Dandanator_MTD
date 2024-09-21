@@ -37,6 +37,7 @@ USE AT YOUR OWN RISK!
   - Added two leds (LROM1 & LROM2) to identify the active ROM
   - Now it's possible to use a Joystick with two fire buttons (e.g. shooting and throwing grenades) in games that support it or are patched to do so.
   - In order to use the second fire button, you must program the Arduino Nano with the firmware published in the 'Firmware' folder.
+  - To programm the Arduino Nano hex files the best option is to use AVRDUDDES: https://github.com/ZakKemble/AVRDUDESS/releases/tag/v2.18
   - The stock firmware works and can be programmed from the ROM Generator, but in this case only one fire button will work.
   - Latest version of ROM Generator is included in 'Firmware' folder
   - 1.8 PCB's notes:
@@ -119,12 +120,16 @@ https://github.com/mad3001/Multiply
 
 # Images
 
-![Version 1.7s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_7s_Front.jpg)
+![Version 1.8 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8_Front.jpg)
 
-![Version 1.7s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_7s_Back.jpg)
+![Version 1.8 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8_Back.jpg)
 
-![Version 1.7 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_7_Front.jpg)
+![Version 1.8s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s_Front.jpg)
 
-![Version 1.7 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_7_Back.jpg)
+![Version 1.8s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s_Back.jpg)
+
+![Version 1.8Ds Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8Ds_Back.jpg)
+
+![Version 1.8Ds Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8Ds_Back.jpg)
 
 
