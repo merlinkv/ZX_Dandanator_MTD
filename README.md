@@ -46,6 +46,7 @@ USE AT YOUR OWN RISK!
   - Included two example patched games (thanks to @mad3001).
   - [Interactive BOM ZX Dandanator MTD_1 8](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8.html)
   - [Interactive BOM ZX Dandanator MTD_1 8Ds](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8Ds.html)
+  - [Interactive BOM ZX Dandanator MTD_1 8s](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s.html)
      
 * 11-09-2024
   - Two versions of the 1.7 board (different mSD footprints).
