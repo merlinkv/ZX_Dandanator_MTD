@@ -30,7 +30,7 @@ USE AT YOUR OWN RISK!
 # Updates
 
 * 02-06-2025
-  - Published versions 1.8, 1.8s & 2.0Ds
+  - Published versions 1.8, 2.0s & 2.0Ds
   - mSD slot has been changed to Push-Push
   - Now it's possible to use a Joystick with two fire buttons (e.g. shooting and throwing grenades) in games that support it or are patched to do so.
   - In order to use the second fire button, you must program the Arduino Nano with the firmware published in the 'Firmware' folder or with the included new ROM Generator:
@@ -38,14 +38,14 @@ USE AT YOUR OWN RISK!
     * A new ROM Generator jar file is included (**ZX Dandanator MTD 10.4.3.jar**) in the Firmware folder. This ROM Generator can be used to "Upgrade Multiply" with the two Joystick buttons activated.
     * The stock firmware also works and can be programmed from the original ROM Generator, but in this case only one fire button will work.
   - 2.0 PCB's notes:
-    * 1.8s (small) is a two layers PCB
+    * 2.0s (small) is a two layers PCB
     * 2.0Ds (small) is a four layers PCB with EDGE connector on the back
     * Slide Switches: 5 pin, 3mm, SPDT
     * mSD slot: Hirose DM3AT-SF-PEJM5
   - Included two example patched games (thanks to @mad3001).
   - [Interactive BOM ZX Dandanator MTD_1 8](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8.html)
   - [Interactive BOM ZX Dandanator MTD_2_0Ds](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0Ds_4L.html)
-  - [Interactive BOM ZX Dandanator MTD_1 8s](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s.html)
+  - [Interactive BOM ZX Dandanator MTD_2_0s](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0s.html)
      
 * 11-09-2024
   - Two versions of the 1.7 board (different mSD footprints).
