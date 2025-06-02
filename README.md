@@ -121,12 +121,12 @@ https://github.com/mad3001/Multiply
 
 ![Version 1.8 Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8_Back.jpg)
 
-![Version 1.8s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s_Front.jpg)
+![Version 2.0s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0s_Front.jpg)
 
-![Version 1.8s Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_1_8s_Back.jpg)
+![Version 2.0s Back](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0s_Back.jpg)
 
-![Version 1.8Ds Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0Ds_Front.jpg)
+![Version 2.0Ds Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0Ds_Front.jpg)
 
-![Version 1.8Ds Front](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0Ds_Back.jpg)
+![Version 2.0Ds Back](https://github.com/merlinkv/ZX_Dandanator_MTD/blob/main/ZX_Dandanator_MTD_2_0Ds_Back.jpg)
 
 
