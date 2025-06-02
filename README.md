@@ -37,7 +37,7 @@ USE AT YOUR OWN RISK!
     * To programm the Arduino Nano hex files the best option is to use AVRDUDDESS: https://github.com/ZakKemble/AVRDUDESS/releases/tag/v2.18
     * A new ROM Generator jar file is included (**ZX Dandanator MTD 10.4.3.jar**) in the Firmware folder. This ROM Generator can be used to "Upgrade Multiply" with the two Joystick buttons activated.
     * The stock firmware also works and can be programmed from the original ROM Generator, but in this case only one fire button will work.
-  - 1.8 PCB's notes:
+  - 2.0 PCB's notes:
     * 1.8s (small) is a two layers PCB
     * 2.0Ds (small) is a four layers PCB with EDGE connector on the back
     * Slide Switches: 5 pin, 3mm, SPDT
